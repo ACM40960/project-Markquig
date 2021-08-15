@@ -32,7 +32,7 @@ Examples of how to run this are griven in the file run_inputs.txt. Copy one, or 
     
 
 # Rubik_SA
-This directory contains my failed attempt at writing code to solve a Rubik cube using simulated annealing. The program is contained in the file rubik_sa.cpp, and an example input in input.txt. To run use the following lines in the terminal:
+This directory contains my failed attempt at writing code to solve a Rubik cube using simulated annealing. The program is contained in the file rubik_sa.cpp, which has two verstion of the function, Rubic_SA::sample_neighbour, one to pick the proposed next step total randomly, another to pick dependent on the cost of the neighbouring steps. The preverence can be made with comenting out one over the other. The file input.txt containse a sample input. To run use the following lines in the terminal:
 
     g++ rubik_sa.cpp 
     ./a.out input.txt
