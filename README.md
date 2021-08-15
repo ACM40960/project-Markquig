@@ -33,10 +33,12 @@ Examples of how to run this are griven in the file run_inputs.txt. Copy one, or 
 
 # Rubik_SA
 This directory contains my failed attempt at writing code to solve a Rubik cube using simulated annealing. The program is contained in the file rubik_sa.cpp, and an example input in input.txt. To run use the following lines in the terminal:
+
     g++ rubik_sa.cpp 
     ./a.out input.txt
 
 The sub directory Rubik_SA/generator/ contains code to generate generate new inputs using the files generate.cpp & input_clean.txt. To run from a terminal within the directoru Rubik_SA/generator/ use the following lines:
+
     g++ generate.cpp   
     ./a.out input_clean.txt > input.txt
     mv input.txt ..    
