@@ -11,6 +11,8 @@ The remaining files are used to run sudoku_general.cpp multiple times and put re
 
 The directory Sudoku_SA/input/ contains example input puzzles. The sub directories of input that begin with numbers (e.g. input/45/) contain puzzles with that many non fixed cells/missing values. The directory input/order_4/ contains sudoku puzzle of order 4.
 
+The directory Sudoku_SA/generate/ contains a script to get new puzzles.
+
 The remaining sub directories of Sudoku_SA/ contian results of running run_100.sh on several input files for various set of paramaters and header files. For example the directory Sudoku_SA/output_exp_1/ contiains results of my first set of chocen paramaters on the exponentill headder file, sudoku_sa_exp.h. While the directory Sudoku_SA/output_exp_2/ contains the results of my second set of chocen paramaters on the exponentill headder file.
 
 
