@@ -16,13 +16,16 @@ The remaining sub directories of Sudoku_SA/ contian results of running run_100.s
 
 ## Run sudoku_general.cpp
 I used g++ to compile this. The lines for the teminal when in Sudoku_SA/ are:
+
     g++ sudoku_general.cpp 
     ./a.out input/45/input_45_1_2,967,429,033.txt 0.9 0.9999995 100000
+    
 This will run the given file in with an itial tempature of 0.9, cooling rate of 0.9999995, with 100000 step per attmept. If run with the quadratic header file included, results will typicly be less then 10.
 
 
 ## Run run_100.sh
 This runs the above lines multiple times, so will need to be able to run them. A directory Sudoku_SA/output/ needs to be created before it will run. 
+
     mkdir output
 Examples of how to run this are griven in the file run_inputs.txt. Copy one, or multiple lines from this into the terminal to run. It shouldn't be needed, but if the file is unable to exicute run: 
     chmod u+x run_100.sh
