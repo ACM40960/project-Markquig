@@ -1,0 +1,80 @@
+./run_100.sh input/45/input_45_1_2,967,429,033.txt
+./run_100.sh input/45/input_45_1_8,841,333,164.txt
+./run_100.sh input/45/input_45_1_362,728,379.txt
+
+./run_100.sh input/46/input_46_1_2,119,367,708.txt
+./run_100.sh input/46/input_46_1_2,126,248,664.txt
+./run_100.sh input/46/input_46_1_473,120,317.txt
+
+./run_100.sh input/47/input_47_1_1,351,539,160.txt
+./run_100.sh input/47/input_47_1_2,252,998,719.txt
+./run_100.sh input/47/input_47_1_8,574,950,734.txt
+
+./run_100.sh input/48/input_48_1_2,521,017,851.txt
+./run_100.sh input/48/input_48_1_9,115,317,282.txt
+
+./run_100.sh input/49/input_49_1_3,600,471,374.txt
+./run_100.sh input/49/input_49_2_5,243,664,536.txt
+./run_100.sh input/49/input_49_2_5,472,068,608.txt
+
+./run_100.sh input/50/input_50_2_1,059,439,776.txt
+./run_100.sh input/50/input_50_2_1,790,064,186.txt
+./run_100.sh input/50/input_50_2_9,760,174,973.txt
+
+./run_100.sh input/51/input_51_2_1,950,739,642.txt
+./run_100.sh input/51/input_51_2_3,470,624,975.txt
+./run_100.sh input/51/input_51_2_6,524,621,659.txt
+
+./run_100.sh input/52/input_52_2_2,570,136,705.txt
+./run_100.sh input/52/input_52_2_6,566,052,285.txt
+./run_100.sh input/52/input_52_2_9,081,692,792.txt
+
+./run_100.sh input/53/input_53_2_7,171,561,452.txt
+./run_100.sh input/53/input_53_2_8,959,088,387.txt
+./run_100.sh input/53/input_53_3_1,316,246,196.txt
+
+./run_100.sh input/54/input_54_3_4,096,190,646.txt
+./run_100.sh input/54/input_54_3_6,884,968,741.txt
+./run_100.sh input/54/input_54_3_9,015,614,512.txt
+
+./run_100.sh input/55/input_55_4_1,453,142,523.txt
+./run_100.sh input/55/input_55_4_1,683,197,473.txt
+./run_100.sh input/55/input_55_4_10,418,227,918.txt
+
+./run_100.sh input/56/input_56_4_7,511,332,909.txt
+./run_100.sh input/56/input_56_4_9,539,464,196.txt
+./run_100.sh input/56/input_56_4_10,286,118,169.txt
+
+./run_100.sh input/57/input_57_4_1,660,650,059.txt
+./run_100.sh input/57/input_57_4_9,019,779,823.txt
+./run_100.sh input/57/input_57_4_10,188,882,336.txt
+
+
+
+
+
+./run_100.sh input/64/input_easy17_1.txt
+./run_100.sh input/64/input_easy17_2.txt
+./run_100.sh input/64/input_easy17_3.txt
+./run_100.sh input/64/input_easy17_4.txt
+./run_100.sh input/64/input_easy17_5.txt
+./run_100.sh input/64/input_easy17_6.txt
+./run_100.sh input/64/input_easy17_7.txt
+./run_100.sh input/64/input_easy17_8.txt
+./run_100.sh input/64/input_easy17_9.txt
+./run_100.sh input/64/input_easy17_10.txt
+
+
+
+
+
+./run_100.sh input/order_4/input_4_1.txt
+./run_100.sh input/order_4/input_4_2.txt
+./run_100.sh input/order_4/input_4_3.txt
+./run_100.sh input/order_4/input_4_4.txt
+./run_100.sh input/order_4/input_4_5.txt
+
+
+
+
+
